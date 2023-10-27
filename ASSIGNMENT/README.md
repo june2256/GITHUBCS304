@@ -1,0 +1,3 @@
+# cs304 hands-on github
+
+ASSIGNMENT FOR MIDTERM CS304
